@@ -1,6 +1,6 @@
 # wheel_of_fate
 
-A new Flutter project.
+A Demo Project of 2d Rubic and Wheel menu animation
 
 ## Getting Started
 
